@@ -1,4 +1,4 @@
-# Java-民政救助系统源代码-毕业设计-快速开发模版-SpringBoot2.X-VUE-Antd-MyBatis-Shiro
+# 基于SpringBoot2.X-VUE-Antd-MyBatis的民政救助系统毕业设计选题
 
 #### 介绍
 
