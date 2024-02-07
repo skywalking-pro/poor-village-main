@@ -5,7 +5,7 @@
  **SpringBoot2.X VUE2.6 Antd1.7.2  TkMyBatis Shiro1.5.0 Java1.8 管理系统 JVM 权限设计 可作为毕业设计和快速开发 民政救助系统源代码** 
 
 #### 系统概要图
-![系统概要图](https://skywalking.pro/download/images/poor-assist/WechatIMG498.jpg "系统概要图.png")
+![系统概要图](https://skywalking.pro/download/images/poor-assist/WechatIMG498.jpg "系统概要图.png") 
 
 ####  **联系作者** 
 
